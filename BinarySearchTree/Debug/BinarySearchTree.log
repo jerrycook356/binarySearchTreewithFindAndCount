@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jerry\documents\data stuctures 2\binarysearchtree\binarysearchtree\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jerry\documents\data stuctures 2\binarysearchtree\binarysearchtree\main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  BinarySearchTree.vcxproj -> C:\Users\jerry\Documents\data stuctures 2\BinarySearchTree\Debug\BinarySearchTree.exe
